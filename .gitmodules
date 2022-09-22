@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/codemaster08240328/server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/codemaster08240328/client.git
+[submodule "web-components"]
+	path = web-components
+	url = https://github.com/codemaster08240328/web-components.git
